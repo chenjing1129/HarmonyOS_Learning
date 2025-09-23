@@ -6,6 +6,7 @@
     "pages/ButtonExamplePage",
     "pages/TextInputExamplePage",
     "pages/ListExamplePage",
-    "pages/ProfilePage"
+    "pages/ProfilePage",
+    "pages/OneDimensionalPage"
   ]
 }
