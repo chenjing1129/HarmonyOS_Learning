@@ -1,12 +1,24 @@
 {
   "src": [
-    "pages/Index",
-    "pages/TextExamplePage",
-    "pages/ImageExamplePage",
-    "pages/ButtonExamplePage",
-    "pages/TextInputExamplePage",
-    "pages/ListExamplePage",
-    "pages/ProfilePage",
-    "pages/OneDimensionalPage"
+    "pages/HomePage",
+    "pages/basic/TextExamplePage",
+    "pages/basic/TextInputExamplePage",
+    "pages/basic/ButtonExamplePage",
+    "pages/basic/ImageExamplePage",
+    "pages/basic/ListExamplePage",
+    "pages/layout/OneDimensionalPage",
+    "pages/animation/ExplictAnimationPage",
+    "pages/animation/KeyframeAnimationPage",
+    "pages/full_pages/LoginPage",
+    "pages/full_pages/ProductListPage",
+    "pages/full_pages/ProfilePage",
+    "pages/full_pages/SettingsPage",
+    "pages/full_pages/SwipePromptCard",
+    "pages/full_pages/ProductDetail",
+    "pages/full_pages/Index",
+    "pages/full_pages/ProductList",
+    "pages/full_pages/Page1",
+    "pages/full_pages/Page2",
+    "pages/CategoryDetailPage"
   ]
 }

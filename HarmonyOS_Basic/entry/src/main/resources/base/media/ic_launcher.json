@@ -1,0 +1,10 @@
+{
+  "layers": [
+    {
+      "element": "$media:ic_launcher_background"
+    },
+    {
+      "element": "$media:ic_launcher_foreground"
+    }
+  ]
+}

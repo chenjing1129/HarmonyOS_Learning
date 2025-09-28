@@ -4,7 +4,7 @@
  * 作者：cj
  * 日期：2025/9/9
  */
-import { ProductInfo } from '../model/ProductInfo'
+import { ProductInfo } from '../../model/ProductInfo'
 
 @Component
 struct ProductCard {

@@ -1,4 +1,4 @@
-import { ProductInfo } from '../model/ProductInfo'
+import { ProductInfo } from '../../model/ProductInfo'
 
 /**
  * ProductListPage.ets

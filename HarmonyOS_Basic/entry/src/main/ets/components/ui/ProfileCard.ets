@@ -5,7 +5,7 @@
  * 日期: 2025/9/9
  */
 
-import { ProfileData } from '../viewmodel/ProfileData';
+import { ProfileData } from '../../viewmodel/ProfileData';
 
 @Component
 export struct ProfileCard {

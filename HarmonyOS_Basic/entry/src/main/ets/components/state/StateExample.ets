@@ -1,4 +1,4 @@
-import { UserInfo } from '../model/UserInfo'
+import { UserInfo } from '../../model/UserInfo'
 import { UserCard } from './UserCard'
 
 /**

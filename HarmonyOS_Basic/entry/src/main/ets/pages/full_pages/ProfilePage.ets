@@ -1,5 +1,5 @@
-import { ProfileCard } from '../components/ProfileCard';
-import { ProfileData } from '../viewmodel/ProfileData';
+import { ProfileCard } from '../../components/ui/ProfileCard';
+import { ProfileData } from '../../viewmodel/ProfileData';
 
 @Entry
 @Component

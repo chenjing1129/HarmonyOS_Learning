@@ -4,7 +4,7 @@
  * 作者: cj
  * 日期: 2025/9/10
  */
-import { UserInfo } from '../model/UserInfo.ets';
+import { UserInfo } from '../../model/UserInfo.ets';
 import { UserProfile } from './UserProfile';
 
 @Component
