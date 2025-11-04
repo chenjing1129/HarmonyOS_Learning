@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "learn",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

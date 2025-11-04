@@ -6,6 +6,13 @@ struct Index {
   build() {
     Column() {
       Title()
+      Button('玩安卓API示例')
+        .width(200)
+        .margin(10)
+        .backgroundColor('#1976D2')
+        .onClick(() => {
+          router.pushUrl({ url: 'pages/WanAndroidPage' });
+        })
       Button('Text 组件')
         .width(200)
         .margin(10)

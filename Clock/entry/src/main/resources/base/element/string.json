@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "时钟卡片示例应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "时钟卡片应用主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "时钟卡片"
+    },
+    {
+      "name": "ClockFormAbility_desc",
+      "value": "时钟卡片服务"
+    },
+    {
+      "name": "ClockFormAbility_label",
+      "value": "时钟"
+    },
+    {
+      "name": "widget_clock_card_desc",
+      "value": "显示实时日期时间的桌面卡片"
+    },
+    {
+      "name": "widget_clock_card_name",
+      "value": "时钟卡片"
+    },
+    {
+      "name": "WeatherFormAbility_desc",
+      "value": "天气卡片服务"
+    },
+    {
+      "name": "WeatherFormAbility_label",
+      "value": "天气"
+    },
+    {
+      "name": "widget_weather_card_desc",
+      "value": "显示城市天气信息的桌面卡片"
+    },
+    {
+      "name": "widget_weather_card_name",
+      "value": "天气卡片"
+    },
+    {
+      "name": "CounterFormAbility_desc",
+      "value": "计数器卡片服务"
+    },
+    {
+      "name": "CounterFormAbility_label",
+      "value": "计数器"
+    },
+    {
+      "name": "widget_counter_card_desc",
+      "value": "显示计数器信息的桌面卡片"
+    },
+    {
+      "name": "widget_counter_card_name",
+      "value": "计数器卡片"
+    }
+  ]
+}

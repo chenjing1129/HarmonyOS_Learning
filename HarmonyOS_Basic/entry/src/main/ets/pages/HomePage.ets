@@ -20,6 +20,12 @@ struct HomePage {
   // 定义所有页面和分类
   private categories: Category[] = [
     {
+      title: '网络请求示例',
+      pages: [
+        { name: '玩安卓API', routeName: 'pages/WanAndroidPage', description: '使用HttpRequest获取玩安卓开放API数据' }
+      ]
+    },
+    {
       title: '基础组件',
       pages: [
         { name: 'Text', routeName: 'pages/basic/TextExamplePage', description: 'Text组件示例' },

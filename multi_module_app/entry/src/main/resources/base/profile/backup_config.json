@@ -1,0 +1,7 @@
+{
+  "allowToBackupRestore": true,
+  "includes": [],
+  "excludes": [],
+  "fullBackupOnly": false,
+  "restoreDeps": ""
+}

@@ -1,6 +1,7 @@
 {
   "src": [
     "pages/HomePage",
+    "pages/WanAndroidPage",
     "pages/basic/TextExamplePage",
     "pages/basic/TextInputExamplePage",
     "pages/basic/ButtonExamplePage",

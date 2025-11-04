@@ -1,0 +1,17 @@
+{
+  "forms": [
+    {
+      "name": "CounterCard",
+      "description": "计数器卡片",
+      "src": "./ets/widget/pages/CounterCard.ets",
+      "uiSyntax": "arkts",
+      "colorMode": "auto",
+      "supportDimensions": ["2*2", "4*4"],
+      "defaultDimension": "2*2",
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 1,
+      "isDefault": true
+    }
+  ]
+}
